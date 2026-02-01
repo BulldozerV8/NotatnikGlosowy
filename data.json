@@ -1,144 +1,14 @@
 {
     "domyślny": [
         {
-            "text": "Zamów pizzę hawajską",
+            "text": "Kup jabłko i banany",
             "done": false,
-            "date": "2026-02-01 16:41"
+            "date": "2026-02-01 18:23"
         },
         {
-            "text": "Kup jabłko i mleko",
-            "done": false,
-            "date": "2026-02-01 17:02"
-        },
-        {
-            "text": "Kup jabłko i mleko",
-            "done": false,
-            "date": "2026-02-01 17:02"
-        },
-        {
-            "text": "Notatka",
-            "done": false,
-            "date": "2026-02-01 17:02"
-        },
-        {
-            "text": "Wizyta u lekarza jutro o 23:00, przyjść godzine wcześniej",
-            "done": false,
-            "date": "2026-02-01 17:03"
-        },
-        {
-            "text": "Jutro wizuyta u lekarza o 23 i musze byc wczesniej 1h",
-            "done": false,
-            "date": "2026-02-01 17:03"
-        },
-        {
-            "text": "Wizyta u lekarza jutro 22:00",
-            "done": false,
-            "date": "2026-02-01 17:03"
-        },
-        {
-            "text": "Pojade nad morze",
-            "done": false,
-            "date": "2026-02-01 17:13"
-        },
-        {
-            "text": "Pojade nad morze",
-            "done": false,
-            "date": "2026-02-01 17:20"
-        },
-        {
-            "text": "Pojade nad morze",
-            "done": false,
-            "date": "2026-02-01 17:20"
-        },
-        {
-            "text": "Wierzę w wierze",
-            "done": false,
-            "date": "2026-02-01 17:21"
-        },
-        {
-            "text": "Wierzę w Wielką wieżę",
-            "done": false,
-            "date": "2026-02-01 17:21"
-        },
-        {
-            "text": "Nad morze",
-            "done": false,
-            "date": "2026-02-01 17:21"
-        },
-        {
-            "text": "Morze",
-            "done": false,
-            "date": "2026-02-01 17:21"
-        },
-        {
-            "text": "Morze nad",
-            "done": false,
-            "date": "2026-02-01 17:21"
-        },
-        {
-            "text": "Morze",
-            "done": false,
-            "date": "2026-02-01 17:21"
-        },
-        {
-            "text": "Morze nad morzem",
-            "done": false,
-            "date": "2026-02-01 17:22"
-        },
-        {
-            "text": "Morze nad morzem",
-            "done": false,
-            "date": "2026-02-01 17:22"
-        },
-        {
-            "text": "Wyjście nad morze",
-            "done": false,
-            "date": "2026-02-01 17:22"
-        },
-        {
-            "text": "Wizyta u lekarza o 22:00 jutro",
-            "done": false,
-            "date": "2026-02-01 17:23"
-        },
-        {
-            "text": "Wizyta u lekarza jutro przed 22:00",
-            "done": false,
-            "date": "2026-02-01 17:23"
-        },
-        {
-            "text": "Wizyta u lekarza o 22:00 jutro",
-            "done": false,
-            "date": "2026-02-01 17:23"
-        },
-        {
-            "text": "Kup jabłko i chleb",
-            "done": false,
-            "date": "2026-02-01 17:23"
-        },
-        {
-            "text": "Pojadę może nad",
-            "done": false,
-            "date": "2026-02-01 17:31"
-        },
-        {
-            "text": "Pojechać nad",
-            "done": false,
-            "date": "2026-02-01 17:31"
-        },
-        {
-            "text": "Pojadę może na jebane",
-            "done": false,
-            "date": "2026-02-01 17:32"
-        },
-        {
-            "text": "Pojechać na morze",
-            "done": false,
-            "date": "2026-02-01 17:32"
-        },
-        {
-            "text": "Kup jabłko",
-            "done": false,
-            "date": "2026-02-01 18:06"
+            "text": "Kup banany",
+            "done": true,
+            "date": "2026-02-01 18:23"
         }
     ]
 }
